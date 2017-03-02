@@ -1,2 +1,3 @@
 # check_mk_plugins-
-Check_MK plugins
+
+This repository contains check_mk plugins.
